@@ -10,3 +10,4 @@ function countCharacters(s) {
 }
 
 console.log(countCharacters("stTress"));
+console.log(countCharacters("stress"));
